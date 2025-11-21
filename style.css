@@ -427,12 +427,13 @@ body {
     
     .social-links {
         flex-direction: row;
+        flex-wrap: wrap;
         align-items: center;
         gap: 10px;
     }
 
     .social-icon {
-        height: 40px;
+        height: 30px;
     }
 
 
