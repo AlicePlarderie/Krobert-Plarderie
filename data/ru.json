@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "language": "ru"
+  },
+  "profile": {
+    "title": "Krobert Plarderie | Коммишки",
+    "description": "Супер-мега-невообразимо интересный, потрясающий, гениальный, сексуальный и поражающий воображение своим великолепием творец!"
+  },
+  "services": [
+    {
+      "id": "headfull",
+      "name": "Хэдшот | Фулл рендер",
+      "tat": "Время работы до 2 недель",
+      "price": "₽3500+",
+      "description": "<span style='color:var(--text2-color)'>✧</span>              К стоимости картинки может идти доплата в размере <span style='color:var(--text2-color)'>₽150-₽1500</span> в зависимости от <span style='color:var(--text2-color)'>сложности дизайна</span>* персонажа<br>           <span style='color:var(--text2-color)'>* Как пример ~ татуировки, аксессуары, дополнительная пара глаз и тд</span>",
+      "examples": "assets/services/headshot-full"
+    },
+    {
+      "id": "headsk",
+      "name": "Хэдшот | Скетч",
+      "tat": "Время работы до 1 недели",
+      "price": "₽800+",
+      "description": "<span style='color:var(--text2-color)'>✧</span>              К стоимости картинки может идти доплата в размере <span style='color:var(--text2-color)'>₽100-₽700</span> в зависимости от <span style='color:var(--text2-color)'>сложности дизайна</span>* персонажа<br>           <span style='color:var(--text2-color)'>* Как пример ~ татуировки, аксессуары, дополнительная пара глаз и тд</span>",
+      "examples": "assets/services/headshot-sketch"
+    },
+    {
+      "id": "halffull",
+      "name": "Халф | Фулл рендер",
+      "tat": "Время работы до 45 дней",
+      "price": "₽7000+",
+      "description": "<span style='color:var(--text2-color)'>✧</span>              К стоимости картинки <span style='color:var(--text2-color)'>МОЖЕТ</span> идти доплата в зависимости от <span style='color:var(--text2-color)'>сложности дизайна</span>* персонажа и сложности его <span style='color:var(--text2-color)'>окружения</span>**<br>           <span style='color:var(--text2-color)'>* Как пример ~ татуировки, протезы, большое количество деталей на костюме и тд</span><br>                   <span style='color:var(--text2-color)'>** Как пример ~ город, конкретная локация, интерьер и тд</span><br>                           <span style='color:var(--text2-color)'>✧</span>              К стоимости картинки <span style='color:var(--text2-color)'>БУДЕТ</span> идти доплата, если на ней <span style='color:var(--text2-color)'>больше, чем один персонаж</span>",
+      "examples": "assets/services/half-full"
+    }
+    
+  ],
+  "info": [
+    {
+      "id": "base",
+      "title": "✦ Основные моменты ✦",
+      "text": "<span class='info-text2'>✧</span> Я не перерисовываю фото людей<br>            <span class='info-text2'>✧</span> Не рисую NSWF <span class='info-text2'>[порно/насилие и тд]</span><br>                      <span class='info-text2'>[ Но с NSWF рефами проблем не имею ]</span><br>                                <span class='info-text2'>✧</span> Картинка будет в формате <span class='info-text2'>PNG</span><br>                  <span class='info-text2'>✧</span> <span class='info-text2'>Рабочий процесс</span> включает в себя <span class='info-text2'>3 этапа</span>; <span class='info-text2'>чб скетч</span>, <span class='info-text2'>цветовой профиль</span> и <span class='info-text2'>рендер</span>. Каждый из них будет показан в чате. На этапе покраса картинка будет выглядеть <span class='info-text2'>очень неаккуратно</span>, это нормально. Законченную картинку я могу отправить по <span class='info-text2'>электронной почте</span> или загрузить на <span class='info-text2'>Google Диск</span> и отправить ссылку для скачивания"
+    },
+    {
+      "id": "payment",
+      "title": "✦ Оплата ✦",
+      "text": "<span class='info-text2'>✧</span> Оплата <span class='info-text2'>переводом на карту в рублях</span> или посредством <span class='info-text2'>Hipolink в USD</span><br>                     <span class='info-text2'>✧</span> Если клиент не отвечает в течение <span class='info-text2'>недели</span>*, заказ может быть <span class='info-text2'>отменен</span><br>          <span class='info-text2'>*В течение 20 дней, если оплата была произведена</span><br>           <span class='info-text2'>✧</span> Предоплата - <span class='info-text2'>100%</span><br>           <span class='info-text2'>[ 50%/50% ( перед и после скетча ) доступна для стоимости заказа от ₽15000 и выше ]</span><br>                 <span class='info-text2'>✧</span> Если работа была выполнена и получала утверждение на этапах работы, возврат не делаю<br>               <span class='info-text2'>[ Если оплата была произведена не в рублях, я не смогу вернуть деньги вообще ]</span>"
+    },
+    {
+      "id": "tos",
+      "title": "✦ Условия испольльзования ✦",
+      "text": "<span class='info-text2'>✧</span> Только для <span class='info-text2'>персонального использования</span><br>             <span class='info-text2'>[ стоимость коммерческого использования обсуждается отдельно в переписке ]</span><br>              <span class='info-text2'>✧</span> Я имею право отказать в заказе <span class='info-text2'>без разъяснения причин<br>                 [ только до получения оплаты конечно же ]</span><br>                 <span class='info-text2'>✧</span> Я имею право <span class='info-text2'>публиковать</span> законченную картинку в <span class='info-text2'>своих социальных сетях</span> и в своё <span class='info-text2'>портфолио</span><br>                           <span class='info-text2'>✧</span> Процесс рисования может быть записан и использован в качестве фона для моего YouTube канала. Это также значит, что референсы персонажа могут <span class='info-text2'>попасть на видео.</span> Если Вам бы хотелось <span class='info-text2'>сохранить референсы персонажа в секрете</span>, пожалуйста, дайте мне знать, чтобы я их <span class='info-text2'>скрыла</span> для программы записи экрана"
+      }
+  ]
+}

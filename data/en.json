@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "language": "en"
+  },
+  "profile": {
+    "title": "Krobert Plarderie | Commissions",
+    "description": "The super-mega-inconceivably interesting, stunning, genius, sexy, and mind-blowingly magnificent creator!"
+  },
+  "services": [
+    {
+      "id": "headfull",
+      "name": "Headshot | Full Render",
+      "tat": "Turnaround time is up to 2 weeks",
+      "price": "US$45+",
+      "description": "<span style='color:var(--text2-color)'>✧</span> There is might be <span style='color:var(--text2-color)'>+$2-$15</span> to the cost if your character has a <span style='color:var(--text2-color)'>complex design</span>*<br>                      <span style='color:var(--text2-color)'>* Example ~ tattoos, accessories, additional pair of eyes and etc</span>",
+      "examples": "assets/services/headshot-full"
+    },
+    {
+      "id": "headsk",
+      "name": "Headshot | Sketch",
+      "tat": "Turnaround time is up to 1 week",
+      "price": "US$12+",
+      "description": "<span style='color:var(--text2-color)'>✧</span> There is might be <span style='color:var(--text2-color)'>+$1-$10</span> to the cost if your character has a <span style='color:var(--text2-color)'>complex design</span>*<br>                             <span style='color:var(--text2-color)'>* Example ~ tattoos, accessories, additional pair of eyes and etc</span>",
+      "examples": "assets/services/headshot-sketch"
+    },
+    {
+      "id": "halffull",
+      "name": "Halfbody | Full Render",
+      "tat": "Turnaround time is up to 45 days",
+      "price": "US$100+",
+      "description": 
+        "<span style='color:var(--text2-color)'>✧</span> The price <span style='color:var(--text2-color)'>MAY</span> increase due to the <span style='color:var(--text2-color)'>complexity of the background*</span> or the <span style='color:var(--text2-color)'>character design**</span><br><span style='color:var(--text2-color)'>* Example ~ sity / specific location / apartment interior and etc<br>** Example ~ a complex pattern on their body / prosthesis / elaborate costume and etc</span><br>                      <span style='color:var(--text2-color)'>✧</span> The price <span style='color:var(--text2-color)'>WILL</span> increase if there's <span style='color:var(--text2-color)'>more than one</span> character in the picture",
+      "examples": "assets/services/half-full"
+    }
+    
+  ],
+  "info": [
+    {
+      "id": "base",
+      "title": "✦ Base rules ✦",
+      "text": "<span class='info-text2'>✧</span> I don't do real human photo redraws<br>            <span class='info-text2'>✧</span> No NSWF       <br><span class='info-text2'>[ I'm okay with NSWF refs though ]</span><br>                                <span class='info-text2'>✧</span> Image format is <span class='info-text2'>PNG</span><br>                     <span class='info-text2'>✧</span> The <span class='info-text2'>work process</span> contains <span class='info-text2'>3 stages</span>; <span class='info-text2'>black&white sketch</span>, <span class='info-text2'>color scheme</span> and <span class='info-text2'>rendering</span>. Each of them will be shown in the chat. The color scheme picture will look <span class='info-text2'>very untidy</span>, that's okay. The finished picture will be sent to you via <span class='info-text2'>email</span> or may be uploaded to the <span class='info-text2'>Google Drive</span>"
+    },
+    {
+      "id": "payment",
+      "title": "✦ Payment ✦",
+      "text": "<span class='info-text2'>✧</span> Payment via <span class='info-text2'>Hipolink</span><br>                     <span class='info-text2'>✧</span> If the client doesn't reply within a <span class='info-text2'>week</span>*, the order may be <span class='info-text2'>canceled</span><br>          <span class='info-text2'>*within 20 days If the payment has been sent</span><br>           <span class='info-text2'>✧</span> Prepayment - <span class='info-text2'>100%</span><br>           <span class='info-text2'>[ 50%/50% ( before and after sketch ) is available for $180+ price ]</span><br>                 <span class='info-text2'>✧</span> No refunds<br>               <span class='info-text2'>[ Due to my location, I literally won't be able to return money ]</span>"
+    },
+    {
+      "id": "tos",
+      "title": "✦ Terms of Use ✦",
+      "text": "<span class='info-text2'>✧</span> For <span class='info-text2'>personal use</span> only<br>             <span class='info-text2'>[ the price for commercial use is discussed in a private chat ]</span><br>              <span class='info-text2'>✧</span> I reserve the right to decline the commission <span class='info-text2'>without explanation<br>                 [ before receiving payment, of course ]</span><br>                 <span class='info-text2'>✧</span> I reserve the right to <span class='info-text2'>post</span> the final image on <span class='info-text2'>social media</span> and my <span class='info-text2'>portfolio</span><br>                           <span class='info-text2'>✧</span> The drawing process may be used as the video background on my YouTube channel. This also means, that the <span class='info-text2'>character's refs might get caught on video.</span> If you're <span class='info-text2'>not okay</span> with that, please let me know so <span class='info-text2'>I can hide them</span>"
+      }
+  ]
+}
